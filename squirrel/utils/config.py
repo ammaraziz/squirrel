@@ -40,10 +40,10 @@ KEY_FIG_HEIGHT = "fig_height"
 
 VALUE_VALID_CLADES = ["cladei","cladeia","cladeib","cladeii","cladeiia","cladeiib"]
 OUTGROUP_DICT = {
-    "cladei":["KJ642615|human|Nigeria||1978"],
-    "cladeia":["KJ642615|human|Nigeria||1978"],
-    "cladeib":["KJ642613|human|DRC|Equateur|1970-09-01"],
-    "cladeii":["KJ642613|human|DRC|Equateur|1970-09-01"],
-    "cladeiia":["KJ642613|human|DRC|Equateur|1970-09-01"],
-    "cladeiib":["KJ642615|human|Nigeria||1978"]
+    "cladei":["KJ642615_human_Nigeria__1978"],
+    "cladeia":["KJ642615_human_Nigeria__1978"],
+    "cladeib":["KJ642613_human_DRC_Equateur_1970-09-01"],
+    "cladeii":["KJ642613_human_DRC_Equateur_1970-09-01"],
+    "cladeiia":["KJ642613_human_DRC_Equateur_1970-09-01"],
+    "cladeiib":["KJ642615_human_Nigeria__1978"]
 }
